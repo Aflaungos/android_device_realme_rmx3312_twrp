@@ -37,7 +37,7 @@ Then add to a local manifest (if you don't have .repo/local_manifest then make t
 <manifest>
   <remote name="me" 
         fetch="https://github.com/Aflaungos" />
-  <project name="android_device_realme_rmx3312" path="device/realme/rmx3312" remote="me" revision="android-12.1"/>
+  <project name="android_device_realme_rmx3312_twrp" path="device/realme/rmx3312" remote="me" revision="android-12.1"/>
 </manifest>
 ```
 Now you can sync your source:
