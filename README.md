@@ -1,4 +1,4 @@
-# TWRP Device configuration for Realme GT2 - RMX3311-RMX3312 - Covenant Fuchsia
+# TWRP Device configuration for Realme GT2 (RMX3312)
 
 ## Device specifications
 Basic    | Spec Sheet
@@ -13,7 +13,7 @@ Battery  | Li-Po 5000mAh, non-removable
 Display  | LCD, 120Hz, 6.62 inch, 1080 x 2400 pixels, 20:9 ratio
 
 ## Device picture
-<img src="https://t2.tudocdn.net/605718?w=142&h=304" width="100%"/>
+<img src="https://cellshop.com/media/catalog/product/3/1/3125809_1_6df0_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=616&width=616&canvas=616:616"/>
 
 ## Kernel Source
 From Stock ROM
